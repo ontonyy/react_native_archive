@@ -25,6 +25,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "b0fff205-fbc1-4781-8aae-737b8470b3a4"
+      }
+    },
+    "owner": "ontony"
   }
 }
